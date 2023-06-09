@@ -1,1 +1,1 @@
-[# my_note](https://fbtjdwls04.github.io/my_note/#/main)
+서비스 주소 (https://fbtjdwls04.github.io/my_note/#/main)
